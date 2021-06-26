@@ -13,11 +13,13 @@ As part of the analytics process, the Analysis started with the assembly and cle
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theather_Outcomes_vs_Launch resources](./Resources/Theather_Outcomes_vs_Launch.png)
+
 With the analysis of the Launch dates with the outcomes (canceled, failed, successful) two insights emerge: first seems that most successful campaigns are been launched in May and June, and by the last quarter of the year seems to be the harder period to get a successful campaign since by December we got the same amount of successful and failed, so if we can conclude with only this set of variables seem more possible to get success launching in May and June.
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals resources](./Resources/Outcomes_vs_Goals.png)
+
 Based on the fundraising goals, seems to emerge 5 insights around the graph. First: for campaigns with less than 1,000 the percentage of failed is the lowest and the biggest percentage of success; Second: from 5,000 to 19,999 the percentage of success and failure comes very close; Third: from 20,000 to 34,999 plays seems to fail in a bigger proportion; Four: from campaigns with 35K and 44,999 seems to be one of biggest proportion in successful "plays" after "the less than 1,000" showed before. And finally "plays" looking for 45K and above has the biggest failure rate. To conclude there are two extreme types of successful fundraising campaigns those with less than 1,000 and those between 35K to 44K, which should take into consideration for the whole analysis put in context with Louise's intentions and objetives.
 
 ### Challenges and Difficulties Encountered
